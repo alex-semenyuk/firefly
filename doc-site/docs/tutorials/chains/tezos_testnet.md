@@ -74,7 +74,7 @@ ff accounts list dev
 ]
 ```
 
-After that, go to [Tezos Ghostnet Faucet](https://faucet.ghostnet.teztnets.xyz/) and paste the address in the form and click the **Request** button.
+After that, go to [Tezos Ghostnet Faucet](https://faucet.ghostnet.teztnets.com/) and paste the address in the form and click the **Request** button.
 
 ![Tezos Faucet](images/tezos_faucet.png)
 
